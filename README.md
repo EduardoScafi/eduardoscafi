@@ -13,7 +13,7 @@
 
 ### :bar_chart: Ciência de Dados e IA
 
-* Atualmente em transição de carreira para Ciencia de Dados e Inteligência Artificial.
+* Atualmente ampliando competências em Ciência de Dados e Inteligência Artificial.
 
 
 ----------------------------------------------------------
