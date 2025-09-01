@@ -1,16 +1,41 @@
-## Hi there 👋
+# Oi, meu nome é Eduardo Scafi :wave:
 
-<!--
-**EduardoScafi/eduardoscafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :books: Sou Pesquisador em Física
 
-Here are some ideas to get you started:
+* Doutor em Física pela [UFPR](https://fisica.ufpr.br/) em 2022. A pesquisa se concentrou em mecânica fracionária e sistemas dinâmicos.
+* Mestre em Física pelo [ITA](https://www.pgfis.ita.br/post/pg-fis) em 2017, com enfoque na área de Física de partículas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :books: Sou professor de Física
+
+* Graduado em Física pela [PUCPR](https://www.pucpr.br/) em 2014.
+* Leciono para o ensino médio e superior. 
+* Fui professor e autor de disciplinas presenciais e EAD da [Graduação em Física da PUCPR](https://www.pucpr.br/cursos-graduacao/fisica/).
+
+### :bar_chart: Ciência de Dados e IA
+
+* Atualmente em transição de carreira para Ciencia de Dados e Inteligência Artificial.
+
+
+----------------------------------------------------------
+
+## Meus projetos de IA:
+
+----------------------------------------------------------
+
+## :mailbox_closed: [Me envie um e-mail para colaboração](eduardo_scafi@outlook.com)
+
+
+Acesse minhas redes de contato para mais informações
+
+   
+   
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/eduardo-scafi/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width = 100/>
+  </a>
+  <a href="http://lattes.cnpq.br/1309552921686924">
+    <img src="http://paginapessoal.utfpr.edu.br/jlrebelatto/icon_Lattest.png/image" alt="Lattes Badge" width = 100/>
+  </a>
+</div>
+
