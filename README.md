@@ -1,6 +1,6 @@
 # Oi, meu nome é Eduardo Scafi :wave:
 
-### :books: Sou Pesquisador em Física
+### :computer: Sou Pesquisador em Física
 
 * Doutor em Física pela [UFPR](https://fisica.ufpr.br/) em 2022. A pesquisa se concentrou em mecânica fracionária e sistemas dinâmicos.
 * Mestre em Física pelo [ITA](https://www.pgfis.ita.br/post/pg-fis) em 2017, com enfoque na área de Física de partículas.
@@ -34,7 +34,7 @@ Acesse minhas redes de contato para mais informações
   <a href="https://www.linkedin.com/in/eduardo-scafi/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width = 100/>
   </a>
-  <a href="http://lattes.cnpq.br/1309552921686924">
+  <a href=" http://lattes.cnpq.br/6653736567964155">
     <img src="http://paginapessoal.utfpr.edu.br/jlrebelatto/icon_Lattest.png/image" alt="Lattes Badge" width = 100/>
   </a>
 </div>
